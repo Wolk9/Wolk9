@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wolk9
 - 👀 I’m interested in everything and nothing and all in between
-- 🌱 I’m currently learning FrontEnd Development, JavaScript, React, Redux and also PHP
+- 🌱 I’m Certified in FrontEnd Development, JavaScript, React, Redux and also PHP
 - 💞️ I’m looking to collaborate on nice projects
 - 📫 How to reach me is best done by leave me a note
 
